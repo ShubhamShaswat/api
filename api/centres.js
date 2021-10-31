@@ -1,10 +1,10 @@
 const fs = require("fs");
 
-let launchers = require("../data/launchers.json");
+let centers = require("../data/centres.json");
 
 module.exports = async (req, res) => {
     try {
-        res.send(launchers);
+        res.send(centers);
     } catch (error) {
         res.status(500);
         const response = error.response || {};
