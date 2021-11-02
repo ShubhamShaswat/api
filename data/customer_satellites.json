@@ -211,6 +211,16 @@
       "launcher": "PSLV-C20"
     },
     {
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "id": "AMAZONIA-1",
+      "country": "BRAZUK",
+      "launch_date": "28-02-2021",
+      "mass": "637",
+      "launcher": "PSLV-C51"
+=======
+=======
+>>>>>>> e0e857fc1a57738ea34ac1363a56ce1b66cc5249
       "id": "SPOT-7",
       "country": "FRANCE",
       "launch_date": "30-06-2014",
@@ -247,11 +257,16 @@
     },
     {
       "id": "AMAZONIA-1",
+<<<<<<< HEAD
       "country": "BRAZIL",
+=======
+      "country": "BRAZUK",
+>>>>>>> e0e857fc1a57738ea34ac1363a56ce1b66cc5249
       "launch_date": "28-02-2021",
       "mass": "637",
       "launcher": "PSLV-C51"
     },
+<<<<<<< HEAD
     {
       "id": "DMC3-1",
       "country": "UK",
@@ -370,6 +385,9 @@
       "launch_date": "16-12-2015",
       "mass": "",
       "launcher": "PSLV-C29"
+>>>>>>> 1682a27614223b69b3d726a4307e99c99b4b1c3c
     }
+=======
+>>>>>>> e0e857fc1a57738ea34ac1363a56ce1b66cc5249
   ]
 }
